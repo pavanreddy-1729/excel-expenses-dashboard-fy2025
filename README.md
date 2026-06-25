@@ -26,4 +26,4 @@ variance, and trends.
 
 ## 📂 Files
 - `Expenses_Dashboard_FY2025.xlsx` — the full interactive workbook
-- `/screenshots` — dashboard images
+- `/screenshots`— dashboard images
