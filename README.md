@@ -3,7 +3,6 @@
 An interactive financial dashboard built in Microsoft Excel to track and analyze
 company expenses across departments, categories, and payment methods.
 
-![Dashboard](dashboard.png)
 
 ## 🔑 Key Features
 - **KPI cards:** Total Expenses, Budget Allocated, Budget Remaining, Transactions,
